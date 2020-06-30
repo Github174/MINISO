@@ -1,0 +1,295 @@
+#bs a{
+	color:black;
+	font-size: 17px;
+	font-weight: bold;
+}
+#bs li{
+	padding-top: 40px;
+}
+#home{
+	margin-top:30px;
+}
+.sd{
+	border-top: 2px solid red;
+}
+#jianjie{
+	margin-top: 30px;
+	width: 1200px;
+	height:650px;
+}
+.tup{
+	width: 600px;
+	height: 600px;
+	float: left;
+}
+.tup img{
+	width: 100%;
+	height: 100%;
+}
+.tup p{
+	color: white;
+	font-size: 35px;
+}
+.tup-l{
+	width: 600px;
+	height: 600px;
+}
+.tup-r{
+	margin-top: 40px;
+	position: absolute;
+	margin-left:420px;
+}
+.zit{
+	width: 550px;
+	height: 600px;
+	float: left;
+	margin-left: 40px;
+}
+.touzi{
+	width: 500px;
+	height: 290px;
+	border: 1px solid gainsboro;
+}
+.fenb{
+	width: 500px;
+	height: 290px;
+	background: url(img/distributor.jpg);
+	background-size: 100% 100%;
+	margin-top: 20px;
+	position: absolute;
+}
+.G{
+	width: 180px;
+	height:45px;
+	border: 1px solid gainsboro;
+	margin: 0px auto;
+	margin-top: 20px;
+}
+.G a{
+	color: gray;
+	text-decoration: none;
+}
+.G p{
+	padding-top:10px;
+}
+.h{
+	width: 180px;
+	height:45px;
+	border: 1px solid gainsboro;
+	margin: 0px auto;
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+.h a{
+	color: gray;
+	text-decoration: none;
+}
+.h p{
+	padding-top:10px;
+}
+.v{
+	width: 180px;
+	height:45px;
+	border: 1px solid gainsboro;
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+.v a{
+	color: gray;
+	text-decoration: none;
+}
+.v p{
+	padding-top:10px;
+}
+.touzi .p1{
+	padding-top: 20px;
+}
+.touzi h1{
+	padding-top: 20px;
+}
+.ds{
+	width: 200px;
+    height: 60px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    font-size: 32px;
+    color:white;
+    border-top: 3px solid #fff;
+    border-bottom: 3px solid #fff;
+    line-height: 60px;
+}
+#jumm{
+	width: 1200px;
+	height:600px;
+}
+.biu{
+	text-align: center;
+    width: 100%;
+    color: #222;
+    font-weight: bold;
+}
+.navlist{
+	width: 100%;
+    margin-top:20px;
+    display: flex;
+}
+.navz{
+	width: 100%;
+    white-space: nowrap;
+    font-size: 15px;
+    color: #666;
+    margin-top: 15px;
+}
+.tupian{
+	margin-top:40px;
+}
+.tupian img{
+	width: 256px;
+	height: 256px;
+}
+.xw img{
+	width:360px;
+	height:240px;
+}
+.xw span{
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.fooot{
+	width: 100%;
+    margin-top: 100px;
+    border-top: 4px solid #000;
+    height:150px;
+    padding: 40px 0 40px;
+}
+.textli{
+	width: 90%;
+    font-size: 16px;
+    color: #333;
+    margin-top: 20PX;
+    line-height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 20px;
+    white-space: nowrap;
+    font-weight: bold;
+}
+.lalal{
+	width: 90%;
+    height: 63px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-left: -3PX;
+    line-height: 22px;
+}
+.navbar{
+	border-bottom:1px solid gainsboro ;
+	height: 110px;
+}
+#yedeng{
+	width: 1140px;
+	height: 500px;
+	background: url(../img/产品banner-小夜灯.jpg);
+	background-size: 100% 100%;
+	margin-top: 30px;
+}
+#cp{
+	width: 1200px;
+	height: 630px;
+	margin-top: 30px;
+}
+.cp-a{
+	width: 550px;
+	height: 600px;
+	float: left;
+}
+.cp-b{
+	width: 550px;
+	height: 600px;
+	float: left;
+	margin-left: 40px;
+}
+/*.cp img{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}*/
+.cp-text .pp{
+	width:18%;
+    font-size: 16px;
+    color: #333;
+    line-height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 20px;
+    white-space: nowrap;
+}
+.cp-img{
+	width: 550px;
+	height: 600px;
+	position: absolute;
+}
+.cp-img img{
+	width: 100%;
+	height: 100%;
+}
+/*.cp-text{
+	position: absolute;
+	left: 400px;
+	margin-top: 20px;
+}*/
+.cp-text h3{
+	padding-left: 30px;
+}
+#bj{
+	width: 1150px;
+	height: 600px;
+	background-color:ghostwhite;
+}
+.hh-l{
+	width: 400px;
+	height: 400px;
+	padding-top: 90px;
+	float: left;
+}
+.hh-r{
+	width: 700px;
+	height: 400px;
+	float: left;
+	padding-top:180px;
+	padding-left:260px;
+}
+.hh-r h2{
+	line-height: 70px;
+}
+#ship{
+	width: 1150px;
+	height: 430px;
+	margin-top: 40px;
+}
+.ship-l{
+	width: 580px;
+	height:400px;
+	float: left;
+}
+.ship-r{
+	width: 570px;
+	height:400px;
+	float: left;
+	background-color: crimson;
+	color: white;
+	padding-top:60px;
+	padding-left:60px;
+}
+.ship-l img{
+	width: 100%;
+	height: 100%;
+}
+.ship-r h1{
+	line-height: 50px;
+}
